@@ -374,45 +374,7 @@ header{
 }
 
 @media  (min-width: 1200px) {
-    a{
-        text-decoration: none;
-        color: black;
-    }
-    
-    header{
-        display: flex;
-       justify-content: space-between;
-       background-color: black;
-       height: 15px;
-       align-items: center;
-       padding: 15px;
-       margin-left: 15%;
-       margin-right: 15%;
-       margin-top: 5%;
-       
-      
-       
-    }
-    
-    .imgflex{
-        display: flex;
-        
-        
-    }
-    .img-menu{
-        height: 30px;
-    }
-    
-    .nav-menu{
-        color: white;
-        font-weight: 600px;
-        padding-right: 10px;
-    }
-    
-    .nav-menu:hover{
-        color:lightblue
-    }
-
+  
   .gale{
     grid-template-columns: repeat(4, 1fr);
   }
